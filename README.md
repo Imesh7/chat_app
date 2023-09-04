@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot_20230904_203733](https://github.com/Imesh7/chat_app/assets/50042375/661a164c-ca6a-468d-a655-cfa4342ceeb3)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
